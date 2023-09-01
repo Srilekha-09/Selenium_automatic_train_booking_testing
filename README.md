@@ -4,7 +4,10 @@ Automated testing of a train booking system using Selenium and Java involves cre
 
 Prerequisites:
 
-Java Development Kit (JDK) installed
-Selenium WebDriver library for Java
-Chrome WebDriver (or another WebDriver compatible with your browser)
-An Integrated Development Environment (IDE) like Eclipse or IntelliJ IDEA
+1.Java Development Kit (JDK) installed
+
+2.Selenium WebDriver library for Java
+
+3.Chrome WebDriver (or another WebDriver compatible with your browser)
+
+4.An Integrated Development Environment (IDE) like Eclipse or IntelliJ IDEA
